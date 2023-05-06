@@ -27,7 +27,7 @@ unsigned long intervallo = 10000;
 #define BOT_TOKEN "6165276369:AAE-4va7jYLiSaqpsaJA0mprez4WQ4UAo-w"
 #define EAP_ANONYMOUS_IDENTITY "d.nascivera" //anonymous@example.com, or you can use also nickname@example.com
 #define EAP_IDENTITY "d.nascivera" //nickname@example.com, at some organizations should work nickname only without realm, but it is not recommended
-#define EAP_PASSWORD "31052001Davide" //password for eduroam account
+#define EAP_PASSWORD "pass" //password for eduroam account
 
 //SSID NAME
 const char* ssid = "Unipisa"; // eduroam SSID
